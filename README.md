@@ -61,7 +61,7 @@ The new dataset used for prediction contains similar columns but may not include
 
 5. Run the script to train the model and make predictions:
    ```bash
-   python random_forest.py
+   random forest_v2.py
    ```
 
 ## Script Overview
