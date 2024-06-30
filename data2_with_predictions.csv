@@ -1,0 +1,21 @@
+Employee ID,Age,Experience (years),Education Level,Average Handling Time (AHT),Efficiency (%),Random Forest Output
+39,21,3, Bachelor,17,,85
+23,23,7, Bachelor,18,,86
+37,24,3, Bachelor,25,,85
+27,18,8, Bachelor,28,,82
+36,40,3, Bachelor,28,,80
+34,40,2, Bachelor,23,,80
+23,40,3, High School ,24,,75
+39,29,4, High School ,25,,75
+34,29,3, Master's ,16,,91
+29,25,1, Master's ,24,,90
+20,24,2, Master's ,20,,90
+35,21,5, PhD ,21,,95
+33,27,1, Bachelor,25,,88
+23,37,7, Bachelor,16,,82
+32,24,2, Bachelor,20,,85
+25,31,7, Bachelor,30,,80
+38,36,6, Bachelor,16,,93
+19,26,1, Bachelor,25,,86
+29,32,5, High School ,28,,75
+19,40,8, High School ,17,,75
